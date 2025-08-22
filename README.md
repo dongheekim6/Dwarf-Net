@@ -7,7 +7,6 @@ Dwarf-Net은 **소형 용종 분할(Small Polyp Segmentation)** 성능을 개선
 
 ## 🚀 주요 특징
 - **Shallow Decoder**: 불필요한 연산을 줄이고 작은 객체에 집중
-- **Dense/Hybrid Encoder**: 풍부한 피처 표현 학습
 - **고해상도 Skip Connection**: 세밀한 경계 보존
 - **다양한 Context Module 지원**: Local/Global 컨텍스트 통합
 
